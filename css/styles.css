@@ -61,6 +61,7 @@ background-color: #2e2f42;
 }
 .first-part .push {
     font-family: "Roboto", sans-serif;
+    cursor: pointer;
     display: flex;
         align-items: flex-start;
         justify-content: flex-start;
