@@ -20,7 +20,7 @@ background-color: #2e2f42;
 .third-part {
     background-color: #f4f4fd;
 }
-.list p, .contacts li {
+.list p {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -79,4 +79,11 @@ font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+}
+.contacts li {
+    font-family: "Roboto", sans-serif;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
 }
