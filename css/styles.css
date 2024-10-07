@@ -9,7 +9,7 @@ ul {
 .first-part {
 background-color: #2e2f42;
 }
-.second-part {
+.third-part {
     background-color: #f4f4fd;
 }
 .list p, .contacts {
@@ -17,7 +17,7 @@ background-color: #2e2f42;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.list h3, .navi {
+.list h3, .navi li {
     font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -50,4 +50,18 @@ background-color: #2e2f42;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #f4f4fd;
+}
+.push {
+    font-family: "Roboto", sans-serif;
+    display: flex;
+        align-items: flex-start;
+        justify-content: flex-start;
+        flex-direction: row;
+        gap: 10px;
+        border-radius: 4px;
+            padding: 16px 32px;
+            width: 169px;
+            height: 56px;
+            box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+                background: #4d5ae5;
 }
