@@ -6,6 +6,12 @@ body {
 ul {
     list-style-type: none;
 }
+.first-part {
+background-color: #2e2f42;
+}
+.second-part {
+    background-color: #f4f4fd;
+}
 .list p, .contacts {
     font-size: 16px;
     line-height: 1.5;
@@ -39,6 +45,7 @@ ul {
         color: #2e2f42;
 }
 .under p {
+    background-color: #2e2f42;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
