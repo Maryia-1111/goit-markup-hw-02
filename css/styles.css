@@ -8,6 +8,14 @@ ul {
 }
 .first-part {
 background-color: #2e2f42;
+.first-part h1 {
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 1.07143;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #fff;
+}
 }
 .third-part {
     background-color: #f4f4fd;
@@ -51,7 +59,7 @@ background-color: #2e2f42;
         letter-spacing: 0.02em;
         color: #f4f4fd;
 }
-.push {
+.first-part .push {
     font-family: "Roboto", sans-serif;
     display: flex;
         align-items: flex-start;
