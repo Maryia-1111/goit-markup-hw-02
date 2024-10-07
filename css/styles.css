@@ -93,6 +93,6 @@ a {
 .link:hover, .link:focus {
 color: #31d0aa;
 }
-.first-part .push {
+.first-part .push:hover, .first-part .push:focus {
 color: #31d0aa;
 }
