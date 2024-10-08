@@ -11,10 +11,10 @@ ul {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
-
 }
 .first-part {
 background-color: #2e2f42;
+}
 .first-part .inscription {
         font-weight: 700;
         font-size: 56px;
@@ -22,7 +22,6 @@ background-color: #2e2f42;
         letter-spacing: 0.02em;
         text-align: center;
         color: #ffffff;
-}
 }
 .third-part {
     background-color: #f4f4fd;
@@ -38,6 +37,7 @@ background-color: #2e2f42;
         line-height: 1.2;
         letter-spacing: 0.02em;
         color: #2e2f42;
+}
 .list .people {
     font-weight: 500;
     background-color: ffffff;
@@ -45,7 +45,6 @@ background-color: #2e2f42;
         line-height: 1.2;
         letter-spacing: 0.02em;
         color: #2e2f42;
-}
 }
 .logo {
     font-family: "Raleway", sans-serif;
@@ -82,10 +81,10 @@ background-color: #2e2f42;
     font-weight: 500;
     line-height: 1,5;
     letter-spacing: 0.004em;
-    color: #ffffff
+    color: #ffffff;
     cursor: pointer;
-        justify-content: flex-start;
-                background: #4d5ae5;
+    justify-content: flex-start;
+    background: #4d5ae5;
 }
 #nav li {
 font-weight: 500;
@@ -108,11 +107,11 @@ a {
     text-decoration: none;
 }
 .link:hover, .link:focus {
-    background-color: #404BBF;
+    color: #404BBF;
 }
 .first-part .push:hover, .first-part .push:focus {
-    background-color: #404BBF;
+    color: #404BBF;
 }
-.picture {
-    width: 360px;
+.list .part-of-list {
+    background-color: #ffffff;
 }
