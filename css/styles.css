@@ -15,13 +15,13 @@ ul {
 }
 .first-part {
 background-color: #2e2f42;
-.first-part h1 {
+.first-part .inscription {
         font-weight: 700;
         font-size: 56px;
         line-height: 1.071;
         letter-spacing: 0.02em;
         text-align: center;
-        color: #fff;
+        color: #ffffff;
 }
 }
 .third-part {
@@ -32,12 +32,20 @@ background-color: #2e2f42;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.list h3 {
+.list .benefits {
     font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
         color: #2e2f42;
+.list .people {
+    font-weight: 500;
+    background-color: ffffff;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
 }
 .logo {
     font-family: "Raleway", sans-serif;
@@ -71,6 +79,10 @@ background-color: #2e2f42;
 }
 .first-part .push {
     font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    line-height: 1,5;
+    letter-spacing: 0.004em;
+    color: #ffffff
     cursor: pointer;
         justify-content: flex-start;
                 background: #4d5ae5;
@@ -82,20 +94,25 @@ font-weight: 500;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
+.contacts {
+    font-style: normal;
+}
 .contacts li {
     font-family: "Roboto", sans-serif;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
-        font-style: normal;
 }
 a {
     text-decoration: none;
 }
 .link:hover, .link:focus {
-color: #404bbf;
+    background-color: #404BBF;
 }
 .first-part .push:hover, .first-part .push:focus {
-color: #404bbf;
+    background-color: #404BBF;
+}
+.picture {
+    width: 360px;
 }
