@@ -13,64 +13,76 @@ ul {
     color: #2e2f42;
 }
 .first-part {
-background-color: #2e2f42;
+    background-color: #2e2f42;
 }
 .first-part .inscription {
-        font-weight: 700;
-        font-size: 56px;
-        line-height: 1.07;
-        letter-spacing: 0.02em;
-        text-align: center;
-        color: #ffffff;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #ffffff;
 }
 .third-part {
     background-color: #f4f4fd;
 }
-.list p {
+.third-part .ppl-dscr {
+    font-size: 16px;
+}
+.third-part .list-third {
+    background-color: #ffffff;
+}
+.list .benef-s {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
 .list .benefits {
     font-weight: 500;
-        font-size: 20px;
-        line-height: 1.2;
-        letter-spacing: 0.02em;
-        color: #2e2f42;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 .list .people {
     font-weight: 500;
     background-color: ffffff;
-        font-size: 20px;
-        line-height: 1.2;
-        letter-spacing: 0.02em;
-        color: #2e2f42;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 .logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
-        font-size: 18px;
-        line-height: 1.17;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
-        color: #4d5ae5;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
 }
 .logo .accent {
-        color: #2e2f42;
-}
-.logo-foot .accent {
     color: #2e2f42;
 }
 .titles {
     font-weight: 700;
-        font-size: 36px;
-        line-height: 1.11;
-        letter-spacing: 0.02em;
-        text-align: center;
-        color: #2e2f42;
-        text-transform: capitalize;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+    text-transform: capitalize;
 }
 .titles-four {
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 1.11;
+    text-transform: capitalize;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.titles-four .three-name {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -81,10 +93,10 @@ background-color: #2e2f42;
     background-color: #2e2f42;
 }
 .under .foot-parag {
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #f4f4fd;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
 }
 .first-part .push {
     font-family: "Roboto", sans-serif;
@@ -107,12 +119,12 @@ font-weight: 500;
     font-style: normal;
     color: #434455;
 }
-.contacts li {
+.contacts .link {
     font-family: "Roboto", sans-serif;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
 a {
     text-decoration: none;
