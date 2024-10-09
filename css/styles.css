@@ -28,6 +28,8 @@ ul {
 }
 .third-part .ppl-dscr {
     font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 .third-part .list-third {
     background-color: #ffffff;
@@ -85,7 +87,7 @@ ul {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.titles-four .three-name {
+.list .three-name {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -109,7 +111,7 @@ ul {
     color: #ffffff;
     cursor: pointer;
     justify-content: flex-start;
-    background: #4d5ae5;
+    background-color: #4d5ae5;
 }
 #nav li {
 font-weight: 500;
@@ -141,4 +143,8 @@ a {
 }
 .list .part-of-list {
     background-color: #ffffff;
+}
+.list .dscr {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
