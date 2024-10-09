@@ -64,6 +64,9 @@ ul {
 .logo .accent {
     color: #2e2f42;
 }
+.logo .accent-foot {
+    color: #f4f4fd;
+}
 .titles {
     font-weight: 700;
     font-size: 36px;
